@@ -10,4 +10,4 @@ before_script:
 
 script:
   - make
-  - ./Assignment1
+  - ./Assignment1_bin
